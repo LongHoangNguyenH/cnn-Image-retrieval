@@ -25,7 +25,6 @@ ECCV 2016 [[arXiv](http://arxiv.org/abs/1604.02426)]
   
 </div>
 ---
-#### Video demo
 Our video demo [click here](https://drive.google.com/drive/u/0/folders/1-4xaYQKf6gfTvbteylkhim65eozFyKYc)
 ---
 ### Table of contents
