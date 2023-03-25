@@ -18,7 +18,7 @@ ECCV 2016 [[arXiv](http://arxiv.org/abs/1604.02426)]
   
 |Full name|Role|
 |:--:|:--:|
-| [Dang Thi Tuong Vy](https://github.com/Vy20521576@gmail.com) | Leader |
+| [Dang Thi Tuong Vy](https://github.com/vy20521576@gmail.com) | Leader |
 | [Nguyen Hoang Long](https://github.com/VermithorUIT20521568) | Member |
 | [Nguyen Tu Luan](https://github.com/luannguyen57) | Member |
 | [Le Hoang Long](https://github.com/long0901) | Member |
