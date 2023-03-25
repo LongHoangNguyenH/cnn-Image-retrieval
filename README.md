@@ -21,6 +21,6 @@ ECCV 2016 [[arXiv](http://arxiv.org/abs/1604.02426)]
 | [Dang Thi Tuong Vy](https://github.com/ngctnnnn) | Leader |
 | [Nguyen Hoang Long](https://github.com/vokhanhan25) | Member |
 | [Nguyen Tu Luan](https://github.com/BTrDung) | Member |
-| [Le Hoang Long]([https://github.com/BTrDung](https://github.com/long0901?fbclid=IwAR2_jfHkix5KslQdZzpnNm3jSyrYxvnsSgW6-NY-z5rtbnKzfz2JoMW1cFg)) | Member |
+| [Le Hoang Long](https://github.com/long0901) | Member |
   
 </div>
