@@ -24,8 +24,8 @@ ECCV 2016 [[arXiv](http://arxiv.org/abs/1604.02426)]
 | [Le Hoang Long](https://github.com/long0901) |20521563| Member |
   
 </div>
-
-Our Video demo [Click here](https://drive.google.com/drive/u/0/folders/1-4xaYQKf6gfTvbteylkhim65eozFyKYc)
+#### Video demo
+Our video demo [click here](https://drive.google.com/drive/u/0/folders/1-4xaYQKf6gfTvbteylkhim65eozFyKYc)
 ---
 ### Table of contents
 1. [Introduction](#1-introduction)
