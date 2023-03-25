@@ -16,7 +16,7 @@ ECCV 2016 [[arXiv](http://arxiv.org/abs/1604.02426)]
 
 <div align='left'>
   
-|Full name|Role|
+|Full name|student-ID|Role|
 |:--:|:--:|
 | [Dang Thi Tuong Vy](https://github.com/vy20522176@gmail.com) |20522176| Leader |
 | [Nguyen Hoang Long](https://github.com/VermithorUIT20521568) |20521568| Member |
