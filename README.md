@@ -16,7 +16,7 @@ ECCV 2016 [[arXiv](http://arxiv.org/abs/1604.02426)]
 
 <div align='left'>
   
-|Full name|student-ID|Role|
+|Full name|Student-ID|Role|
 |:--:|:--:|:--:|
 | [Dang Thi Tuong Vy](https://github.com/vy20522176@gmail.com) |20522176| Leader |
 | [Nguyen Hoang Long](https://github.com/LongHoangNguyenH) |20521568| Member |
@@ -42,8 +42,9 @@ Our video demo [click here](https://drive.google.com/drive/u/0/folders/1-4xaYQKf
 ### 4. Results
 <div align='center'>
   <img width="1440" alt="demo1" src = "![337680812_767648571633359_3572212536994994590_n](https://user-images.githubusercontent.com/79389744/227866259-3f6b0860-e1d0-40d3-aeb7-983831e34218.png)">
-  <img width ="1440" alt="demo2" src = "">
-  <img width ="1440" alt = "demo3" src ="">
+  <img width ="1440" alt="demo2" src = "![337923626_212158571460196_8435825168334801614_n](https://user-images.githubusercontent.com/79389744/227866730-97500559-777b-4bfc-a522-5f124f1d1d60.png")>
+  <img width ="1440" alt = "demo3" src ="![Uploading 336958010_548098697212188_3368195013001650133_n.png…]()">
+  <img width ="1440" alt = "demo3" src ="![336723974_245320594610584_1651383378957278123_n](https://user-images.githubusercontent.com/79389744/227866880-d0b46b2d-f7dc-44b8-b008-0936ceb1118d.png)">
 </div>
 ### 6. References
 Our work is inspired from:
