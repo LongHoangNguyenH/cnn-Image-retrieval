@@ -31,13 +31,21 @@ Our video demo [click here](https://drive.google.com/drive/u/0/folders/1-4xaYQKf
 1. [Introduction](#1-introduction)
 2. [Repos structure ](#2-repos-structure)
 3. [Demo](#3-demo)
-4. [Experimental configuration](#4-experimental-configuration)
-5. [Results](#5-results)
-6. [References](#6-references)
+4. [Results](#5-results)
+5. [References](#6-references)
 ---
 ### 1. Introduction
+
 ### 2. Repos structure
 ### 3. Demo
-### 4. Experimental configuration
-### 5. Results
+
+### 4. Results
+<div align='center'>
+  <img width="1440" alt="demo1" src = "![337680812_767648571633359_3572212536994994590_n](https://user-images.githubusercontent.com/79389744/227866259-3f6b0860-e1d0-40d3-aeb7-983831e34218.png)">
+  <img width ="1440" alt="demo2" src = "">
+  <img width ="1440" alt = "demo3" src ="">
+</div>
 ### 6. References
+Our work is inspired from:
+[CNN Image Retrieval in PyTorch: Training and evaluating CNNs for Image Retrieval in PyTorch
+](https://github.com/vokhanhan25/ImageRetrievalSystem)
