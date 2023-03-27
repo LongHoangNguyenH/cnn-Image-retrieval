@@ -6,7 +6,7 @@
   
 |Full name|Student-ID|Role|
 |:--:|:--:|:--:|
-| [Dang Thi Tuong Vy](https://github.com/vy20522176@gmail.com) |20522176| Leader |
+| [Dang Thi Tuong Vy](https://github.com/TuongVy20522176) |20522176| Leader |
 | [Nguyen Hoang Long](https://github.com/LongHoangNguyenH) |20521568| Member |
 | [Nguyen Tu Luan](https://github.com/luannguyen57) |20521583| Member |
 | [Le Hoang Long](https://github.com/long0901) |20521563| Member |
