@@ -17,17 +17,18 @@ Our video demo [click here](https://drive.google.com/drive/u/0/folders/1-4xaYQKf
 ---
 ### Table of contents
 1. [Introduction](#1-introduction)
-2. [Repos structure ](#2-repos-structure)
-3. [Demo](#3-demo)
-4. [Results](#4-results)
-5. [References](#5-references)
+2. [Demo](#3-demo)
+3. [Results](#4-results)
+4. [References](#5-references)
 ---
 ### 1. Introduction
-
-### 2. Repos structure
-### 3. Demo
-
-### 4. Results
+we choose the approach as the unsupervised CNNs fine-tuning for image retrieval.
+Firstly, we harness SfM information and enforce for both hard unmatched and matched examples for CNNs training.
+Secondly, we let our architectures learn the whitening through the same training data to avoid the short representations 
+Finally, We choose to use a trainable pooling layer which generalizes existing popular pooling schemes for CNNs and thus both enhances the performance and preserving the same descriptor dimensionality as well.
+### 2. Demo
+Our video demo was storage in [here](https://drive.google.com/drive/u/0/folders/1-4xaYQKf6gfTvbteylkhim65eozFyKYc)
+### 3. Results
 
 <div align='center'>
   <img width="1440" alt="demo1" src = "https://user-images.githubusercontent.com/79389744/227866259-3f6b0860-e1d0-40d3-aeb7-983831e34218.png">
@@ -36,7 +37,7 @@ Our video demo [click here](https://drive.google.com/drive/u/0/folders/1-4xaYQKf
   <img width ="1440"! alt = "demo4" src ="https://user-images.githubusercontent.com/79389744/227866880-d0b46b2d-f7dc-44b8-b008-0936ceb1118d.png">
 </div>
 
-### 5. References
+### 4. References
 Our work is inspired from:
 [CNN Image Retrieval in PyTorch: Training and evaluating CNNs for Image Retrieval in PyTorch
 ](https://github.com/vokhanhan25/ImageRetrievalSystem)
