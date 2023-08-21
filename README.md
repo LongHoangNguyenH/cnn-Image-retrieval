@@ -27,7 +27,7 @@ Firstly, we harness SfM information and enforce for both hard unmatched and matc
 Secondly, we let our architectures learn the whitening through the same training data to avoid the short representations 
 Finally, We choose to use a trainable pooling layer which generalizes existing popular pooling schemes for CNNs and thus both enhances the performance and preserving the same descriptor dimensionality as well.
 ### 2. Demo
-Our video demo was storage in [here](https://drive.google.com/drive/u/0/folders/1-4xaYQKf6gfTvbteylkhim65eozFyKYc)
+Our video demo is storaged in [here](https://drive.google.com/drive/u/0/folders/1-4xaYQKf6gfTvbteylkhim65eozFyKYc)
 ### 3. Results
 
 <div align='center'>
